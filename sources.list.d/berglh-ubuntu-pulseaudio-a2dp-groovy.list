@@ -1,0 +1,4 @@
+deb http://ppa.launchpad.net/berglh/pulseaudio-a2dp/ubuntu/ groovy main
+deb-src http://ppa.launchpad.net/berglh/pulseaudio-a2dp/ubuntu/ groovy main
+
+

@@ -1,0 +1,5 @@
+deb http://ppa.launchpad.net/obsproject/obs-studio/ubuntu/ groovy main
+deb-src http://ppa.launchpad.net/obsproject/obs-studio/ubuntu/ groovy main
+
+
+

@@ -1,0 +1,5 @@
+deb http://ppa.launchpad.net/nextcloud-devs/client/ubuntu/ groovy main
+deb-src http://ppa.launchpad.net/nextcloud-devs/client/ubuntu/ groovy main
+
+
+

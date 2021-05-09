@@ -1,0 +1,8 @@
+apt.conf.d/
+preferences.d/
+saved_sources.tar
+sources.list.classic
+*.save
+*~
+trusted.gpg        
+trusted.gpg.d/

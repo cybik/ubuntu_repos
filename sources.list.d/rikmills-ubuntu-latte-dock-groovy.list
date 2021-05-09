@@ -1,0 +1,5 @@
+deb http://ppa.launchpad.net/rikmills/latte-dock/ubuntu/ groovy main
+deb-src http://ppa.launchpad.net/rikmills/latte-dock/ubuntu/ groovy main
+
+
+

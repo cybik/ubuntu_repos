@@ -1,0 +1,4 @@
+deb http://ppa.launchpad.net/videolan/master-daily/ubuntu/ groovy main
+deb-src http://ppa.launchpad.net/videolan/master-daily/ubuntu/ groovy main
+
+

@@ -1,0 +1,3 @@
+deb http://ppa.launchpad.net/lutris-team/lutris/ubuntu/ groovy main
+deb-src http://ppa.launchpad.net/lutris-team/lutris/ubuntu/ groovy main
+
